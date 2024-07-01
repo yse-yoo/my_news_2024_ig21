@@ -17,6 +17,10 @@ require_once '../../app.php';
                 <input type="text" name="title" class="mt-1 block p-2 w-full border rounded" required>
             </div>
             <div class="mb-4">
+                <label class="block text-gray-700">配信日</label>
+                <input type="datetime-local" name="delivery_at" value="<?php echo date('Y-m-d\TH:i'); ?>" class="mt-1 block p-2 w-full border rounded" required>
+            </div>
+            <div class="mb-4">
                 <label class="block text-gray-700">公開ステータス</label>
                 <div class="mt-1">
                     <label class="inline-flex items-center">

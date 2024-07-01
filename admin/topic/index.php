@@ -16,26 +16,36 @@
             <table class="min-w-full bg-white shadow-md rounded">
                 <thead>
                     <tr class="bg-gray-800 text-white">
-                        <th class="py-2 px-4 text-left">Action</th>
-                        <th class="py-2 px-4 text-left">Name</th>
-                        <th class="py-2 px-4 text-left">Price</th>
+                        <th class="py-2 px-4 text-left"></th>
+                        <th class="py-2 px-4 text-left">タイトル</th>
+                        <th class="py-2 px-4 text-left">配信日</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr class="border-b">
                         <td class="py-2 px-4"><a href="admin/topic/edit.php?id=1" class="text-blue-500 hover:underline">Edit</a></td>
-                        <td class="py-2 px-4">Product1</td>
-                        <td class="py-2 px-4">&yen;33,000</td>
+                        <td class="py-2 px-4">スニーカーバブル崩壊　ナイキ2025年度は予想外の減収の見通し、時価総額4兆円吹き飛ぶ</td>
+                        <td class="py-2 px-4">2024/07/01 12:00</td>
                     </tr>
                     <tr class="border-b">
-                        <td class="py-2 px-4"><a href="admin/topic/edit.php?id=2" class="text-blue-500 hover:underline">Edit</a></td>
-                        <td class="py-2 px-4">Product2</td>
-                        <td class="py-2 px-4">&yen;18,000</td>
+                        <td class="py-2 px-4"><a href="admin/topic/edit.php?id=1" class="text-blue-500 hover:underline">Edit</a></td>
+                        <td class="py-2 px-4">スニーカーバブル崩壊　ナイキ2025年度は予想外の減収の見通し、時価総額4兆円吹き飛ぶ</td>
+                        <td class="py-2 px-4">2024/07/01 12:00</td>
                     </tr>
                     <tr class="border-b">
-                        <td class="py-2 px-4"><a href="admin/topic/edit.php?id=3" class="text-blue-500 hover:underline">Edit</a></td>
-                        <td class="py-2 px-4">Product3</td>
-                        <td class="py-2 px-4">&yen;15,000</td>
+                        <td class="py-2 px-4"><a href="admin/topic/edit.php?id=1" class="text-blue-500 hover:underline">Edit</a></td>
+                        <td class="py-2 px-4">スニーカーバブル崩壊　ナイキ2025年度は予想外の減収の見通し、時価総額4兆円吹き飛ぶ</td>
+                        <td class="py-2 px-4">2024/07/01 12:00</td>
+                    </tr>
+                    <tr class="border-b">
+                        <td class="py-2 px-4"><a href="admin/topic/edit.php?id=1" class="text-blue-500 hover:underline">Edit</a></td>
+                        <td class="py-2 px-4">スニーカーバブル崩壊　ナイキ2025年度は予想外の減収の見通し、時価総額4兆円吹き飛ぶ</td>
+                        <td class="py-2 px-4">2024/07/01 12:00</td>
+                    </tr>
+                    <tr class="border-b">
+                        <td class="py-2 px-4"><a href="admin/topic/edit.php?id=1" class="text-blue-500 hover:underline">Edit</a></td>
+                        <td class="py-2 px-4">スニーカーバブル崩壊　ナイキ2025年度は予想外の減収の見通し、時価総額4兆円吹き飛ぶ</td>
+                        <td class="py-2 px-4">2024/07/01 12:00</td>
                     </tr>
                 </tbody>
             </table>
