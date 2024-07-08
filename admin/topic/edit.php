@@ -12,6 +12,7 @@ require_once '../../app.php';
     <div class="container mx-auto px-4 py-8">
         <h1 class="text-2xl font-bold mb-4">News Edit</h1>
         <form method="POST" action="admin/topic/update.php?id=1" class="bg-white p-6 rounded shadow-md">
+            <input type="hidden" name="id" value="<?= $topic['id'] ?>">
             <div class="mb-4">
                 <label class="block text-gray-700">タイトル</label>
                 <input type="text" name="title" class="mt-1 block p-2 w-full border rounded" required>

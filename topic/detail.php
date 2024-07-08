@@ -30,13 +30,12 @@ require_once('../app.php');
                 </p>
                 <div class="mt-4">
                     <span class="text-xs font-bold text-gray-800">2024/07/01 12:00</span>
+                    <span class="text-xs font-bold text-gray-800 ms-3">Adam</span>
                 </div>
             </div>
         </div>
     </main>
 
-
-    <script defer src="js/app.js"></script>
 </body>
 
 </html>
